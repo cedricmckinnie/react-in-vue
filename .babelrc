@@ -1,0 +1,6 @@
+{
+  "plugins": [
+    "vuera/babel",
+    "@babel/plugin-proposal-export-default-from"
+  ]
+}
