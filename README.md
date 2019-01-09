@@ -1,6 +1,6 @@
 # Using React components directly in Vue components (with or without Typescript)
 ## Full Code Examples
----`
+---
 
 Related Medium Posts:
 - [Part 1](https://medium.com/p/a189737904fd)
@@ -9,7 +9,8 @@ Related Medium Posts:
 
 Features Demonstrated:
 
-Feature 1: Event handling
-Feature 2: Containment using children
-Feature 3: Refs
-Feature 4: Rendering multiple components (Using Array.map)
+- Feature 1: Event handling
+- Feature 2: Containment using children
+- Feature 3: Refs
+- Feature 4: Rendering multiple components (Using Array.map)
+- Feature 5: Passing React component as a prop to a Vue Component
